@@ -1,16 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta charset="utf-8">
-	<title>Sonata Katt</title>
-	<link rel="stylesheet" href="style.css">
-
+<title>Particle's Login</title>
+<link href="style.css" rel="stylesheet">
 </head>
-
 <body>
-<div id="particles-js"></div> <!-- stats - count particles --> <div class="count-particles"> <span class="js-count-particles">--</span> particles </div> <!-- particles.js lib - https://github.com/VincentGarreau/particles.js --> <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> 
-
+<div id="particles-js"></div>
+<script>
+particlesJS.load('particles-js', 'assets/particles.json', function() {
+  console.log('callback - particles.js config loaded');
+});
+</script>
+<script>
+particlesJS.load('particles.js', 'particles.json', function(){
+console.log('particles.json loaded.....');
+});
+</script>
 </body>
 </html>
