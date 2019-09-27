@@ -11,6 +11,7 @@ A personal website with a custom domain. Used as a playground to try new webdev 
 ## links that helped me:
 
 [guide to connect github pages to google domain](http://www.curtismlarson.com/blog/2015/04/12/github-pages-google-domains/)
+
 [apex resource](https://help.github.com/en/articles/setting-up-an-apex-domain)
 ## future goals:
 * host a blog using [Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
