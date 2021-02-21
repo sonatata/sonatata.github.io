@@ -17,3 +17,7 @@
 ## deployment
 
 npm start
+
+if you change any paths: run this to regenerate the bundle 
+
+npm run create
