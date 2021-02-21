@@ -17,3 +17,7 @@ A personal website with a custom domain. Used as a playground to try new webdev 
 * host a blog using [Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
 * fix css so that the particles are responsive everywhere
 * make particles change color onClick
+
+## deployment
+
+npm start
