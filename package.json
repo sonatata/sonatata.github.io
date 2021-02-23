@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/sonatata/sonatata.github.io/issues"
   },
-  "homepage": "https://sonatakatt.com",
+  "homepage": "https://github.com/sonatata/sonatata.github.io",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
