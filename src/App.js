@@ -21,7 +21,7 @@ function App() {
             </div>
             <h2 className="header" style={{textAlign:"right"}}>links! links! links!</h2>
             <div className="links">
-                <a href="https://drive.google.com/open?id=1s5ih6o7vTPiPj7-eyA_iQF43THqPOehH">resume</a> {' 📄 '}
+                <a href="https://drive.google.com/file/d/18DUBQAWDag0r9ZnRWujSXz6HYxFaMjd8/view?usp=sharing">resume</a> {' 📄 '}
                 <a href="mailto:me@sonatakatt.com">email</a> {' 📫 '}
                 <a href="https://github.com/sonatata">github</a>{' 🐙 '}
                 <a href="https://twitter.com/sonatakatt">twitter</a>{' 🐥 '}
